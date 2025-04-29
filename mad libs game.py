@@ -1,0 +1,5 @@
+adjective1 = input("Enter an adjective: ")
+noun1 = input("Enter a noun: ")
+noun2 = input("Enter another noun: ")
+verb1 = input("Enter a verb: ")
+print(f"Welcome to the Mad Libs Game! Today, I visited a {adjective1} place. There was a lot of {noun1}, and {noun2}. I enjoyed it very much! I was {verb1}ing how amazing these things were.")
